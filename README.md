@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# REVIVE
 
-## Getting Started
+## 🌱 Brand Vision
+"업사이클링 프리미엄 아동복을 통해 아이들에게 미래를 선물하는 브랜드"
 
-First, run the development server:
+## 💫 About REVIVE
+REVIVE는 지속 가능한 패션의 새로운 패러다임을 제시합니다. 우리는 버려지는 의류에 새로운 생명을 불어넣어, 
+아이들을 위한 프리미엄 업사이클링 의류를 창조합니다.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🌍 Our Mission
+- 환경을 생각하는 지속 가능한 패션
+- 아이들의 미래를 위한 책임있는 소비문화 창출
+- 프리미엄 퀄리티의 업사이클링 아동복 제작
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Core Values
+1. **지속가능성** - 환경을 생각하는 책임있는 생산
+2. **혁신** - 업사이클링을 통한 새로운 가치 창출
+3. **품질** - 프리미엄 퀄리티 추구
+4. **미래지향** - 다음 세대를 위한 더 나은 환경 조성
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🤝 Join Our Movement
+REVIVE와 함께 지속 가능한 미래를 만들어가세요.
+아이들의 밝은 미래를 위한 우리의 여정에 동참해주세요.
