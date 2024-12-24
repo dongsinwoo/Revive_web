@@ -3,22 +3,13 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import { Leaf, Recycle, Shield, Star, Droplet, Wind, Sun } from 'lucide-react'
+import Header from '@/conponents/Header'
 
 export default function ProductDetailsPage() {
   return (
     <div className="min-h-screen bg-white text-foreground">
       {/* 네비게이션 */}
-      <nav className="bg-white backdrop-blur-md py-4 sticky top-0 z-50">
-        <div className="container mx-auto px-4 flex justify-between items-center">
-          <h1 className="text-2xl text-gray-700 font-bold">REVIVE</h1>
-          <div className="space-x-4">
-            <button className="px-4 py-2 text-s font-medium text-gray-700 hover:bg-gray-100 rounded-md">소개</button>
-            <button className="px-4 py-2 text-s font-medium text-gray-700 hover:bg-gray-100 rounded-md">제품</button>
-            <button className="px-4 py-2 text-s font-medium text-gray-700 hover:bg-gray-100 rounded-md">AI 맞춤</button>
-            <button className="px-4 py-2 text-s font-medium text-gray-700 hover:bg-gray-100 rounded-md">문의</button>
-          </div>
-        </div>
-      </nav>
+      <Header />
 
       {/* 히어로 섹션 */}
       <section className="py-32 px-4 bg-gradient-to-r from-green-500 to-blue-500 text-white overflow-hidden">
